@@ -9,6 +9,13 @@
 # production
 /build
 
+
+
+# Sublime Files #
+*.sublime-project
+*.sublime-workspace
+
+
 # misc
 .DS_Store
 .env
